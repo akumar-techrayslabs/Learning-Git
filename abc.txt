@@ -1,1 +1,6 @@
+
 now this is for the main branch hello this is now being change hey this is changed file this is the file
+
+This is the updation to check the conflict issue and now we can learn how to resolve this 
+hello this is now being change hey this is changed file this is the file
+
